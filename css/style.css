@@ -72,17 +72,6 @@ ul li a:hover{
     color: #000;
 
 }
-.Search .input{
-    margin-left: 1000px;
-    margin-top: 25px;
-    height: 5mm;
-    width: 5cm;
-}
-.search h4{
-    margin-top: -20px;
-    margin-left: 1080px;
-    color: #fff;
-}
 .BUTTON{
     position: absolute;
     top: 70%;
